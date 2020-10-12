@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/task-01/static/css/main.e683428f.chunk.css",
+    "main.js": "/task-01/static/js/main.a2b7a93d.chunk.js",
+    "main.js.map": "/task-01/static/js/main.a2b7a93d.chunk.js.map",
+    "runtime-main.js": "/task-01/static/js/runtime-main.21dc5853.js",
+    "runtime-main.js.map": "/task-01/static/js/runtime-main.21dc5853.js.map",
+    "static/js/2.99263071.chunk.js": "/task-01/static/js/2.99263071.chunk.js",
+    "static/js/2.99263071.chunk.js.map": "/task-01/static/js/2.99263071.chunk.js.map",
+    "index.html": "/task-01/index.html",
+    "precache-manifest.6a337f55165b95d7b127660f56d656f5.js": "/task-01/precache-manifest.6a337f55165b95d7b127660f56d656f5.js",
+    "service-worker.js": "/task-01/service-worker.js",
+    "static/css/main.e683428f.chunk.css.map": "/task-01/static/css/main.e683428f.chunk.css.map",
+    "static/js/2.99263071.chunk.js.LICENSE.txt": "/task-01/static/js/2.99263071.chunk.js.LICENSE.txt",
+    "static/media/section-2.css": "/task-01/static/media/puma-gaming-sock-hed-page-2019.a37f8f2a.png",
+    "static/media/section3.css": "/task-01/static/media/game2.634d1559.jpg",
+    "static/media/bancontact.svg": "/task-01/static/media/bancontact.c3fb6f3d.svg",
+    "static/media/bg-video.mp4": "/task-01/static/media/bg-video.3a4b262f.mp4",
+    "static/media/hero-section.css": "/task-01/static/media/car5.30a6cff5.png",
+    "static/media/england.png": "/task-01/static/media/england.c80b9610.png",
+    "static/media/logo.png": "/task-01/static/media/logo.6d50c989.png",
+    "static/media/mastercard.png": "/task-01/static/media/mastercard.0814edab.png",
+    "static/media/visa.svg": "/task-01/static/media/visa.b24e45ea.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21dc5853.js",
+    "static/js/2.99263071.chunk.js",
+    "static/css/main.e683428f.chunk.css",
+    "static/js/main.a2b7a93d.chunk.js"
+  ]
+}
